@@ -1,6 +1,6 @@
-## 🙋‍♀️ Introducing Myself
+## 🙋🏻‍♀️ Introducing Myself
 
-<img width="2000" height="600" alt="Emma Trivini Bellini - Data Analyst" src="https://github.com/user-attachments/assets/19a3cc01-f358-49a7-8713-58d392ea99d1" />
+<img width="1200" height="360" alt="Emma Trivini Bellini - Data Analyst" src="https://github.com/user-attachments/assets/19a3cc01-f358-49a7-8713-58d392ea99d1" />
 
 Hello, I'm Emma. Data Analyst with 1 year of experience in Italy, currently relocating to Amsterdam, with expertise in data analysis, reporting, dashboard development, and process automation.
 
