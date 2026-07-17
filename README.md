@@ -2,13 +2,12 @@
 
 <img width="1200" height="360" alt="Emma Trivini Bellini - Data Analyst" src="https://github.com/user-attachments/assets/19a3cc01-f358-49a7-8713-58d392ea99d1" />
 
-Hello, I'm Emma. Data Analyst with 1 year of experience in Italy, currently relocating to Amsterdam, with expertise in data analysis, reporting, dashboard development, and process automation.
+Hello, I'm Emma. Data Analyst with expertise in data analysis and reporting, query optimization, dashboard development and data modelling.
 
-- Querying, cleaning and transforming data using SQL and Python (Pandas, NumPy).
+- Querying, cleaning and transforming data using SQL and Python.
+- Generate reports and perform ad-hoc data analysis using SQL.
 - Building interactive dashboards and reports using Power BI and Tableau.
-- Data analysis and modelling in Excel (Advanced Functions, Pivot Tables, VBA).
-- Automating recurring reporting workflows to save time and improve data reliability.
-- Open to Data Analyst / Product Analyst / Commercial Analyst / BI Analyst roles in Amsterdam.
+- Data analysis and reporting using Google Sheets and Excel.
 
 ## 📚 Projects
 
@@ -17,8 +16,8 @@ Welcome to my portfolio, where I showcase my [projects](#).
 ## 🛠️ Tools
 
 - **Language:** SQL, Python
-- **Database:** Google BigQuery, PostgreSQL, MySQL, Google Sheets
-- **Visualization & Reporting:** Power BI, Tableau, Excel
+- **Database:** Google BigQuery, PostgreSQL, MySQL
+- **Visualization & Reporting:** Power BI, Tableau
 
 ## 👋 Connect with Me
 
