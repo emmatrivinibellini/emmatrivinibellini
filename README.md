@@ -11,7 +11,7 @@ Hello, I'm Emma. Data Analyst with expertise in data analysis and reporting, que
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](#).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/emmatrivinibellini/Portfolio).
 
 ## 🛠️ Tools
 
