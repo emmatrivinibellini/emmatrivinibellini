@@ -2,7 +2,7 @@
 
 <img width=“1200” height=“360” alt="Emma Trivini Bellini - Product Analyst" src="https://github.com/user-attachments/assets/487618bd-4efd-412d-b914-0f1eb3c56c45" />
 
-Hello, I'm Emma. Data Analyst with expertise in product analysis, in particular churn prediction, funnel analysis and cohort retention.
+Hello, I'm Emma. Data Analyst with expertise in Product Analysis, in particular Churn Prediction, Funnel Analysis and Cohort Retention.
 
 - Querying, cleaning and transforming data using SQL and Python.
 - Generate reports and perform ad-hoc data analysis using SQL.
