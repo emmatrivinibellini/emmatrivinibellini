@@ -2,7 +2,7 @@
 
 <img width="1200" height="360" alt="Emma Trivini Bellini - Data Analyst" src="https://github.com/user-attachments/assets/19a3cc01-f358-49a7-8713-58d392ea99d1" />
 
-Hello, I'm Emma. Data Analyst with expertise in data analysis and reporting, query optimization, dashboard development and data modelling.
+Hello, I'm Emma. Data Analyst with expertise in product analysis, in particular churn prediction, funnel analysis and cohort retention using SQL, Python and Power BI.
 
 - Querying, cleaning and transforming data using SQL and Python.
 - Generate reports and perform ad-hoc data analysis using SQL.
