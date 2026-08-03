@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-<img width="1200" height="360" alt="Emma Trivini Bellini - Data Analyst" src="https://github.com/user-attachments/assets/19a3cc01-f358-49a7-8713-58d392ea99d1" />
+<img width=“1200” height=“360” alt="Emma Trivini Bellini - Product Analyst" src="https://github.com/user-attachments/assets/487618bd-4efd-412d-b914-0f1eb3c56c45" />
 
 Hello, I'm Emma. Data Analyst with expertise in product analysis, in particular churn prediction, funnel analysis and cohort retention.
 
