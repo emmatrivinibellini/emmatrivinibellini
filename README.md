@@ -1,5 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
+<img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/05a13c6e-5a39-4d6e-b5a0-4797f24874bc" />
 <img width="2000" height="600" alt="Image" src="https://github.com/user-attachments/assets/8944bc60-d4a4-43ee-bada-411133c83487" />
 
 Hello, I'm Emma. Data Analyst with expertise in data analysis and reporting, query optimization, dashboard development and data modelling.
